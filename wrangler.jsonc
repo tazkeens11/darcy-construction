@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "darcy-construction1",
+  "compatibility_date": "2026-07-22",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "darcy-cloudflare-pages 2"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
