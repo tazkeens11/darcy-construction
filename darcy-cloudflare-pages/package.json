@@ -1,0 +1,11 @@
+{
+  "name": "darcy-construction-pages",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node -e \"console.log('Darcy static build: no compilation required')\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

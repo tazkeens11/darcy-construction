@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /styles.css
+Allow: /script.js
+Allow: /components.js
+Allow: /pages.js
+
+# Keep review and non-production paths out of search results.
+Disallow: /staging/
+Disallow: /review/
+Disallow: /preview/
+Disallow: /prototype/
+
+Sitemap: https://www.darcyconstruction.co.uk/sitemap.xml
